@@ -1,0 +1,4 @@
+server:
+  url: "/api"
+  redirect: "www.baidu.com"
+  api: "http"
